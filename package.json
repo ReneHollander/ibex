@@ -30,7 +30,7 @@
     "@nth-cloud/ng-toggle": "^5.0.0",
     "@types/deep-equal": "^1.0.1",
     "bootstrap": "^4.4.1",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "core-js": "^3.6.4",
     "ibantools": "^2.2.0",
     "jquery": "^3.4.1",
